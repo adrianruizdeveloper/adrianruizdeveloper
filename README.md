@@ -1,7 +1,7 @@
 ### ¡Hola!! Soy Adrián Ruiz, desarrollador web full stack junior y actualmente formandome en el apartado de ciberseguridad en todos sus aspectos
 
-- 🔭 Actualmente trabajando de Front-End Developer
-- 🌱 Actualmente estoy formandome en Angular y en Ciberseguridad
+- 🔭 Trabajando de Front-End Developer
+- 🌱 Formandome en Angular y en Ciberseguridad
 - 📫 Puedes escribirme en adrianruizdeveloper@protonmail.com
 - ⚡ Hobbies: Gaming, series, música...
 
